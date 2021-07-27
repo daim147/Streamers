@@ -4,7 +4,7 @@
 
 ## Then install all the dependencies of 3 folders by 
 
-# npm install 
+` npm install ` 
 
 ## Then Run all the folder 
 
