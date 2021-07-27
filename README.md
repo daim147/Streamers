@@ -22,4 +22,5 @@
 ```
 <img src = './Screenshot 2021-07-27 190423.png'/>
 <img src = './Screenshot 2021-07-27 190712.png'>
+### This number in url should be your Stream key
 ## then referesh the app your stream will be live here in app
